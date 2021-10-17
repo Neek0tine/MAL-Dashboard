@@ -1,42 +1,23 @@
 
 <a href='https://discord.gg/gWqbP9j3EV'> ![Discord](https://img.shields.io/discord/257479001365413889?label=Discord&style=flat-square) This is where I live. </a>
 
-# (PROGRAM DOES NOT FUNCTION ANYMORE DUE TO LEGAL REASONS)
-
-
-# AnimeHub Framework
-
-AniHub is a video scraping framework whose task simply to look for animes info and downloads it (batch or single). The framework has built-in feature such as:
-- Anime search 
-- Anime batch download
-- MyAnimeList status editor
-- Multiprovider scrapping. (MyAnimeList, AnimeKisa, Gogoanime)
-
-The framework utilize Microsoft Edge Selenium Webdriver as its webscrapping engine as it easily overcome the struggles that often occur when webscraping, such as Java script 
-enabled buttons, iframes, token based GET requests, and complex request headers. Surely, all these are too good to be true if done without a problem. The webengine driver also
-have its own problems, one of which are the severe hit on performance as webengine requires to be setup before action. Webengine driver also require a stable internet cnnection
-as sometimes the program clicks faster than the page lods and leads to a standstill. Other than that, this program is pretty stable compared to other video scrappers.
+# MAL Dashboard
 
 ## Usage
-
-As the program is spesifically designed to be as intuitive as possible, there is not much explaining of how one uses this program.
-Upon starting up, the user will be given 3 choice: Search, Update data and exit. The download option will be available when the target pops up in 
-search result.
-
-The option to change provider will also be available when the user already started a search. If the user did not find what they were looking for, provider 
-change button will be available on the second from bottom selection menu.
-
-Lastly, until the serie is found and episodes are available, the download prompt will be offered to the user. By clicking this prompt the anime will be downloaded 
-in batch in respect of the current available episodes.
 
 
 ## End-User License Agreement
 
-By running the software, the user acknowledged that:
- 1. The user acknowledges that this app is made for EDUCATIONAL PURPOSES ONLY, and the Author emphasize to not use this program so oftenly, as to not disturb the streaming service (Anime Kisa) traffic .
- 2. The user agrees and follows the Term of Service provided [LICENSE](https://github.com/Neek0tine/AKDownloader/blob/master/LICENSE)
- 3. All changes that happened to end-user's computer, online account, or property made by running this appplication is NOT the responsibilty of the author
-
+As per the GPL License, the user:
+1. The user can copy, modify and distribute this software.
+2. The user have to include the license and copyright notice with each and every distribution.
+3. The user can use this software privately.
+4. The user can use this software for commercial purposes.
+5. If the user dare build their business solely from this code, you risk open-sourcing the whole code base.
+6. If the user modifies it, the user have to indicate changes made to the code.
+7. **Any modifications of this code base MUST be distributed with the same license, GPLv3. **
+8. This software is provided without warranty.
+9. The software author (**Nick "Neek0tine" Calvin** ) or license can not be held liable for any damages inflicted by the software.
 
 ## Authors
 
@@ -47,6 +28,6 @@ By running the software, the user acknowledged that:
 Pull requests are welcome. For major changes, how-to, and in-depth explanation, please discuss it with the author first using the discord link. 
 
 ## License
-![PyPI - License](https://img.shields.io/pypi/l/PyCl)
+https://img.shields.io/github/license/neek0tine/MAL-Dashboard?style=flat-square
 <br>
-This project is licensed under MIT License - see the [LICENSE](https://github.com/Neek0tine/AH-Framework/blob/master/LICENSE) file for details
+This project is licensed under GPL License - see the [LICENSE](https://github.com/Neek0tine/MAL-Dashboard/blob/master/LICENSE) file for details
