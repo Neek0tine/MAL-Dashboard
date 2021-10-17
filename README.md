@@ -8,7 +8,7 @@
 
 ## End-User License Agreement
 
-As per the GPL License, the user:
+As per the GPL License:
 1. The user can copy, modify and distribute this software.
 2. The user have to include the license and copyright notice with each and every distribution.
 3. The user can use this software privately.
