@@ -5,10 +5,10 @@
 
 ## Usage
 
-
 ## End-User License Agreement
 
 As per the GPL License:
+
 1. The user can copy, modify and distribute this software.
 2. The user have to include the license and copyright notice with each and every distribution.
 3. The user can use this software privately.
@@ -25,9 +25,10 @@ As per the GPL License:
 
 ## Contributing
 
-Pull requests are welcome. For major changes, how-to, and in-depth explanation, please discuss it with the author first using the discord link. 
+Pull requests are welcome. For major changes, how-to, and in-depth explanation, please discuss it with the author first using the discord link.
 
 ## License
-https://img.shields.io/github/license/neek0tine/MAL-Dashboard?style=flat-square
-<br>
+
+<https://img.shields.io/github/license/neek0tine/MAL-Dashboard?style=flat-square><br>
+
 This project is licensed under GPL License - see the [LICENSE](https://github.com/Neek0tine/MAL-Dashboard/blob/master/LICENSE) file for details
