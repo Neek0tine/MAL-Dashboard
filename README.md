@@ -15,7 +15,7 @@ As per the GPL License, the user:
 4. The user can use this software for commercial purposes.
 5. If the user dare build their business solely from this code, you risk open-sourcing the whole code base.
 6. If the user modifies it, the user have to indicate changes made to the code.
-7. **Any modifications of this code base MUST be distributed with the same license, GPLv3. **
+7. <b>Any modifications of this code base MUST be distributed with the same license, GPLv3.</b>
 8. This software is provided without warranty.
 9. The software author (**Nick "Neek0tine" Calvin** ) or license can not be held liable for any damages inflicted by the software.
 
